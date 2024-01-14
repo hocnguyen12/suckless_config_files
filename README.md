@@ -1,4 +1,4 @@
-# SUCKLESS UTILS
+# suckless utils
 
 ![screenshot](./screenshots/2024-01-14-225548_1366x768_scrot.png)
 
@@ -28,7 +28,7 @@ To restart DWM: (restartsig)
 ```MOD+CTRL+SHIFT+Q```
 
 ## dwm
-MOD/SUPER key is bound to the Windows key aka ```Mod4Mask```
+MOD/SUPER key is bound to the Windows key aka ```Mod4Mask```.
 
 Any script to be executed at startup can be added to ```~/.dwm/autostart.sh```.
 
