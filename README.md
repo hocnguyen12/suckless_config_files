@@ -1,6 +1,6 @@
 # SUCKLESS UTILS
 
-![screenshot](./screenshots/2024-01-14-225548_1366768.png)
+![screenshot](./screenshots/2024-01-14-225548_1366x768_scrot.png)
 
 ## patches
 
