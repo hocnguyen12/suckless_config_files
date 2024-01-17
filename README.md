@@ -1,4 +1,4 @@
-# suckless utils
+# Suckless utils
 
 ![screenshot](./screenshots/2024-01-14-225548_1366x768_scrot.png)
 
@@ -47,3 +47,11 @@ Fonts can be downloaded and moved to a ```~/.fonts``` directory and edited in ``
 Displaying sound volume is displayed via a script/command.
 
 Downloaded the ```alsa-utils``` package and edited dwm config to bind sound keys.
+
+## void-src packages
+In ```~/.local/share/pkgs``` (created pkgs directory), clone the ```void-packages``` repository.
+
+```bash
+$ git clone https://github.com/void-linux/void-packages.git
+```
+then follow the quickstart instructions.
