@@ -5,7 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "DinaRemaster:size=12:antialias=true:autohint=true";
+//Fonts
+//JetBrains Mono
+//DinaRemaster
+static char *font = "JetBrainsMono Nerd Font:size=10:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
@@ -107,7 +110,9 @@ typedef struct {
  */
 static const ColorScheme schemes[] = {
 	// SEOUL256
-	{{"black", "#D7D787", "#D7A3AE", "#CDCD00",
+	// background color (first hexcode)
+	// #2b2d37 #12141e
+	{{"#23252F", "#D7D787", "#D7A3AE", "#CDCD00",
 	  "#56855B", "#83A6C7", "#5A9C9C", "#E5E5E5",
 	  "#303030", "#99AB5F", "#FFAFAE", "#FFFF00",
 	  "#75AC80", "#83A6C7", "#5A9C9C", "white",
