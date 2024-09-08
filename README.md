@@ -1,5 +1,7 @@
 # Suckless utils
 
+see https://suckless.org/
+
 ![screenshot](./screenshots/2024-01-14-225548_1366x768_scrot.png)
 
 ## patches
